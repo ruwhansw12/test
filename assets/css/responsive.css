@@ -1,0 +1,62 @@
+@media screen and (max-width: 768px) {
+
+
+    .sectionTow{
+        margin-top: 5vh;
+    }
+
+    .wrapper{
+        min-width: 300px;
+    }
+    .colorBlur{
+        left: -30vh;
+    }
+}
+
+@media screen and (max-width: 550px) {
+
+    #open {
+        width: 40px;
+
+    }
+
+    .carousel img {
+        width: 100%;
+    }
+
+    .mainImage {
+        width: 250px;
+    }
+
+    .intro {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .popUpPage {
+        font-size: 1em;
+    }
+
+    .wrapper{
+        min-width: 200px;
+    }
+
+
+}
+
+
+@media screen and (max-width: 426px) {
+
+    .child{
+        width: 250px;
+        height: 250px;
+    }
+
+    .navBar{
+        justify-content: center;
+    }
+
+    .sneakpeakSection{
+        margin: 110px
+    }
+}
